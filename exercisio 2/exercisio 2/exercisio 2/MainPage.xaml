@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="exercisio_2.MainPage"
+             Title="Senac - SP"
+             BackgroundColor="DarkGreen">
+
+    <StackLayout BindingContext="{x:Reference slider}">
+        <BoxView Color="Blue" Opacity="{Binding Value}"/>
+        <Label Text="{Binding Value, StringFormat='Valor = {0:F2}'}" Opacity="{Binding Value}" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Large" FontAttributes="Bold" x:Name="label"/>
+        <Slider x:Name="slider"/>
+    </StackLayout>
+
+</ContentPage>

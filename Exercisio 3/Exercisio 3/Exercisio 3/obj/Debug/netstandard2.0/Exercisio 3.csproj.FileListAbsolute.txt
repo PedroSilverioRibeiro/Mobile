@@ -1,0 +1,14 @@
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\bin\Debug\netstandard2.0\Exercisio 3.deps.json
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\bin\Debug\netstandard2.0\Exercisio 3.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\bin\Debug\netstandard2.0\ref\Exercisio 3.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\bin\Debug\netstandard2.0\Exercisio 3.pdb
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\Exercisio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\Exercisio 3.AssemblyInfoInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\Exercisio 3.AssemblyInfo.cs
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\Exercisio 3.csproj.CoreCompileInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\Exercisio 3.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\ref\Exercisio 3.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 3\Exercisio 3\Exercisio 3\obj\Debug\netstandard2.0\Exercisio 3.pdb

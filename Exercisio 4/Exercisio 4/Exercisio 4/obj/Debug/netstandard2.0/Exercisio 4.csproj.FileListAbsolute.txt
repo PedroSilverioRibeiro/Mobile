@@ -1,0 +1,16 @@
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\bin\Debug\netstandard2.0\Exercisio 4.deps.json
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\bin\Debug\netstandard2.0\Exercisio 4.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\bin\Debug\netstandard2.0\ref\Exercisio 4.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\bin\Debug\netstandard2.0\Exercisio 4.pdb
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\Exercisio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\StackLayoutPage.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\Exercisio 4.AssemblyInfoInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\Exercisio 4.AssemblyInfo.cs
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\Exercisio 4.csproj.CoreCompileInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\Exercisio 4.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\ref\Exercisio 4.dll
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\Exercisio 4.pdb
+C:\Users\pedro.sribeiro1\source\repos\Exercisio 4\Exercisio 4\Exercisio 4\obj\Debug\netstandard2.0\Exercisio 4.csproj.AssemblyReference.cache

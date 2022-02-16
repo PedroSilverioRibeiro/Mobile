@@ -1,0 +1,15 @@
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\bin\Debug\netstandard2.0\App teste.deps.json
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\bin\Debug\netstandard2.0\App teste.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\bin\Debug\netstandard2.0\ref\App teste.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\bin\Debug\netstandard2.0\App teste.pdb
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App teste.csproj.AssemblyReference.cache
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App teste.AssemblyInfoInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App teste.AssemblyInfo.cs
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App teste.csproj.CoreCompileInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App teste.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\ref\App teste.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste\App teste\App teste\obj\Debug\netstandard2.0\App teste.pdb

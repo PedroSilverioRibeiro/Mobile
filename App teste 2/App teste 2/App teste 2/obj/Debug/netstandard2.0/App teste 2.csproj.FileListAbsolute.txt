@@ -1,0 +1,15 @@
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\bin\Debug\netstandard2.0\App teste 2.deps.json
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\bin\Debug\netstandard2.0\App teste 2.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\bin\Debug\netstandard2.0\ref\App teste 2.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\bin\Debug\netstandard2.0\App teste 2.pdb
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App teste 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App teste 2.AssemblyInfoInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App teste 2.AssemblyInfo.cs
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App teste 2.csproj.CoreCompileInputs.cache
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App teste 2.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\ref\App teste 2.dll
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App teste 2.pdb
+C:\Users\pedro.sribeiro1\source\repos\App teste 2\App teste 2\App teste 2\obj\Debug\netstandard2.0\App teste 2.csproj.AssemblyReference.cache
